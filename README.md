@@ -6,8 +6,6 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br/>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jonsnowljs.visitor-badge&left_color=green&right_color=red)
 
 <br />
