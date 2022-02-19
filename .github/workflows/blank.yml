@@ -18,3 +18,4 @@ jobs:
           SHOW_TIMEZONE: "FALSE"
           SHOW_LOC_CHARTL: "FALSE"
           SHOW_COMMIT: "FALSE"
+          SHOW_LOC_CHART: "FALSE"
