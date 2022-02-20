@@ -27,15 +27,13 @@ Hi, I'm Jiasheng Lu. A full stack developer will graduate from SAIT. I'm passion
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 267 Contributions in the Year 2022
+> 🏆 281 Contributions in the Year 2022
  > 
-> 📦 28.3 kB Used in GitHub's Storage 
+> 📦 30.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -69,10 +67,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/jonsnowljs/jonsnowljs/main/charts/bar_graph.png) 
-
-
- Last Updated on 18/02/2022 23:09:32 UTC
+ Last Updated on 20/02/2022 18:38:47 UTC
 <!--END_SECTION:waka-->****
