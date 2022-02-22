@@ -31,9 +31,9 @@ Hi, I'm Jiasheng Lu. A full stack developer will graduate from SAIT. I'm passion
 
 **🐱 My GitHub Data** 
 
-> 🏆 281 Contributions in the Year 2022
+> 🏆 288 Contributions in the Year 2022
  > 
-> 📦 30.6 kB Used in GitHub's Storage 
+> 📦 30.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -45,13 +45,21 @@ Hi, I'm Jiasheng Lu. A full stack developer will graduate from SAIT. I'm passion
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 37 mins       █████████████░░░░░░░░░░░░   51.93% 
+HTML                     1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   19.85% 
+XML                      1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
+CSS                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.09%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 58 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   34.44% 
+portfolio                2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   31.03% 
+celikk-personal-website  1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.33% 
+aforpractice             1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
+react-navbar-v3          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
 
 ```
 
@@ -68,5 +76,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2022 18:38:47 UTC
+ Last Updated on 22/02/2022 18:40:40 UTC
 <!--END_SECTION:waka-->****
