@@ -25,7 +25,6 @@ Hi, I'm Jiasheng Lu. A full stack developer will graduate from SAIT. I'm passion
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
 
