@@ -6,11 +6,11 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jonsnowljs.visitor-badge&left_color=green&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=jonsnowljs.visitor-badge&left_color=green&right_color=red) -->
 
 <br />
 <!-- TODO add personal website link on my name -->
-Hi, I'm **Jiasheng Lu**. A full stack developer will graduate from SAIT. I'm passionate on coding and self-learning. And would like to contribute more to open source world.
+Hi, I'm [Jiasheng Lu](https://jonsnowljs.github.io/portfolio/). A full stack developer will graduate from SAIT. I'm passionate on coding and self-learning. And would like to contribute more to open source world.
 
 **languages and tools:**  
 
