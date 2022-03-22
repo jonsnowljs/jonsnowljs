@@ -6,7 +6,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=jonsnowljs.visitor-badge&left_color=green&right_color=red) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jonsnowljs.visitor-badge&left_color=green&right_color=red)
 
 <br />
 <br />
@@ -28,7 +28,6 @@ Hi, I'm [Jiasheng Lu](https://jonsnowljs.github.io/portfolio/). A full stack dev
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
