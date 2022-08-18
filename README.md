@@ -28,21 +28,21 @@ Hi, I'm [Jiasheng Lu](https://jonsnowljs.github.io/portfolio/). A full stack dev
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,347 Contributions in the Year 2022
+> 🏆 1,350 Contributions in the Year 2022
  > 
-> 📦 141.5 kB Used in GitHub's Storage 
+> 📦 142.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 40 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 6 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -69,15 +69,15 @@ lab3                     1 hr                ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               27 repos            ████████████████░░░░░░░░░   64.29% 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38%
+JavaScript               27 repos            ███████████████░░░░░░░░░░   62.79% 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
 
 ```
 
 
 
- Last Updated on 17/08/2022 18:46:23 UTC
+ Last Updated on 18/08/2022 18:44:07 UTC
 <!--END_SECTION:waka-->****
