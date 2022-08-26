@@ -28,15 +28,15 @@ Hi, I'm [Jiasheng Lu](https://jonsnowljs.github.io/portfolio/). A full stack dev
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,363 Contributions in the Year 2022
+> 🏆 1,364 Contributions in the Year 2022
  > 
-> 📦 144.3 kB Used in GitHub's Storage 
+> 📦 145.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -71,8 +71,8 @@ Leetcode                 52 mins             █░░░░░░░░░░�
 
 ```text
 JavaScript               27 repos            ███████████████░░░░░░░░░░   61.36% 
+TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
 Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
 HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
 Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
 
@@ -80,5 +80,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2022 18:44:19 UTC
+ Last Updated on 26/08/2022 18:45:35 UTC
 <!--END_SECTION:waka-->****
