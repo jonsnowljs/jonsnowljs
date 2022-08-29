@@ -28,9 +28,9 @@ Hi, I'm [Jiasheng Lu](https://jonsnowljs.github.io/portfolio/). A full stack dev
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-707%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -80,5 +80,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2022 18:43:13 UTC
+ Last Updated on 29/08/2022 18:45:13 UTC
 <!--END_SECTION:waka-->****
