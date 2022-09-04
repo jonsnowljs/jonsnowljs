@@ -28,7 +28,7 @@ Hi, I'm [Jiasheng Lu](https://jonsnowljs.github.io/portfolio/). A full stack dev
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-713%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -44,28 +44,6 @@ Hi, I'm [Jiasheng Lu](https://jonsnowljs.github.io/portfolio/). A full stack dev
  > 
 > 🔑 6 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               6 hrs 29 mins       █████████████████████░░░░   86.78% 
-JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.16% 
-SCSS                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1% 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
-
-🔥 Editors: 
-VS Code                  7 hrs 29 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-ljs                      5 hrs 52 mins       ███████████████████░░░░░░   78.48% 
-vikingship(更多IT教程666java.1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
-succulent_backend        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.59% 
-succulent_frontend       14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
-study-vikingship-componen1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -79,5 +57,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2022 18:43:55 UTC
+ Last Updated on 04/09/2022 18:43:34 UTC
 <!--END_SECTION:waka-->****
