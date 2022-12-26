@@ -28,7 +28,7 @@ Hi, I'm [Jiasheng Lu](https://jonsnowljs.github.io/portfolio/). A full stack dev
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C290%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C290%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -48,7 +48,7 @@ Hi, I'm [Jiasheng Lu](https://jonsnowljs.github.io/portfolio/). A full stack dev
 
 ```text
 💬 Programming Languages: 
-Vue.js                   21 hrs 56 mins      ████████████████████░░░░░   79.68% 
+Vue.js                   21 hrs 56 mins      ████████████████████░░░░░   79.7% 
 TypeScript               4 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
 JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0% 
 SCSS                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89% 
@@ -58,7 +58,7 @@ JavaScript               12 mins             ░░░░░░░░░░░�
 VS Code                  27 hrs 32 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-motiv-analytics          24 hrs 54 mins      ██████████████████████░░░   90.46% 
+motiv-analytics          24 hrs 54 mins      ██████████████████████░░░   90.48% 
 homecare-mono            1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.83% 
 motiv-stack              34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08% 
 backend                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84% 
@@ -79,5 +79,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/12/2022 18:34:11 UTC
+ Last Updated on 26/12/2022 18:35:27 UTC
 <!--END_SECTION:waka-->****
