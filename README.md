@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm [Jiasheng Lu](https://jonsnowljs.github.io/portfolio/). A full stack developer will graduate from SAIT. I'm passionate on coding and self-learning. And would like to contribute more to open source world.
+Hi, I'm Jiasheng Lu. A full stack developer will graduate from SAIT. I'm passionate on coding and self-learning. And would like to contribute more to open source world.
 
 **languages and tools:**  
 
